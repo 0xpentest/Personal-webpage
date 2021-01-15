@@ -1,2 +1,2 @@
-# Newrepository
-This repository has been created for an specific idea.
+# My personal webpage
+This webpage is a presentation of my studient carrier, worker and skills management.
